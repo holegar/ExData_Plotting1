@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+household_power_consumption.txt
+raw-power-data.zip
